@@ -1,0 +1,5 @@
+s3 = "my-bucket-terraform-lab"
+vpc_cidr ="10.0.0.0/16"
+subnet_cidr ="10.0.0.0/24"
+ec2_ami = "ami-0e86e20dae9224db8"
+instance_type = "t2.micro"
