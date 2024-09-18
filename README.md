@@ -9,7 +9,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/ishwarkavhale/deploy-webapp.git
    
 2. Configure AWS account:
    ```bash
